@@ -1,4 +1,4 @@
-# ☕ Java Fundamentos
+# Java Fundamentos
 
 Repositório criado para armazenar os exercícios e projetos desenvolvidos durante meus estudos em Java.
 
