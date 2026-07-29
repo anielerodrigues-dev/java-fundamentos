@@ -1,6 +1,6 @@
-# ☕ Java Fundamentos
+# ☕ Java Fundamentos | Exercícios e Projetos
 
-Repositório criado para armazenar os exercícios e projetos desenvolvidos durante meus estudos em Java.
+Repositório dedicado aos exercícios e projetos desenvolvidos durante meus estudos em Java, documentando minha evolução na linguagem e na lógica de programação.
 
 ## 📚 Conteúdo
 
