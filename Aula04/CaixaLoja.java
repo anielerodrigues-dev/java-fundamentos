@@ -23,6 +23,7 @@ public class CaixaLoja {
 
         }
 
+        
         System.out.println("Total: R$ " + total);
         scanner.close();
 
