@@ -8,6 +8,8 @@ Repositório dedicado aos exercícios e projetos desenvolvidos durante meus estu
 - ✅ Aula 02 - Estruturas Condicionais
 - ✅ Aula 03 - Operadores Lógicos
 - ✅ Aula 04 - Laços de Repetição (`while`)
+- ✅ Aula 05 - Laços de Repetição (`for`)
+- ✅ Aula 06 - Laços de Repetição (`for`)
 
 ## 🚀 Tecnologias
 
@@ -23,7 +25,7 @@ Repositório dedicado aos exercícios e projetos desenvolvidos durante meus estu
 - [x] Estruturas Condicionais
 - [x] Operadores Lógicos
 - [x] Laço `while`
-- [ ] Laço `for`
+- [x] Laço `for`
 - [ ] Métodos
 - [ ] Vetores
 - [ ] Orientação a Objetos
