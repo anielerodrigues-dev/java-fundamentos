@@ -10,6 +10,8 @@ Repositório dedicado aos exercícios e projetos desenvolvidos durante meus estu
 - ✅ Aula 04 - Laços de Repetição (`while`)
 - ✅ Aula 05 - Laços de Repetição (`for`)
 - ✅ Aula 06 - Laços de Repetição (`for`)
+- ✅ Aula 07 - Laços de Repetição (`for`)
+- ✅ Aula 08 - Vetores (Arrays)
 
 ## 🚀 Tecnologias
 
@@ -26,8 +28,8 @@ Repositório dedicado aos exercícios e projetos desenvolvidos durante meus estu
 - [x] Operadores Lógicos
 - [x] Laço `while`
 - [x] Laço `for`
+- [x] Vetores
 - [ ] Métodos
-- [ ] Vetores
 - [ ] Orientação a Objetos
 
 ## 🎯 Objetivo
