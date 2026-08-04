@@ -1,8 +1,8 @@
-# ☕ Java Fundamentos | Exercícios e Projetos
+# Java Fundamentos | Exercícios e Projetos
 
 Repositório dedicado aos exercícios e projetos desenvolvidos durante meus estudos em Java, documentando minha evolução na linguagem e na lógica de programação.
 
-## 📚 Conteúdo
+## Conteúdo
 
 - ✅ Aula 01 - Variáveis
 - ✅ Aula 02 - Estruturas Condicionais
@@ -13,14 +13,14 @@ Repositório dedicado aos exercícios e projetos desenvolvidos durante meus estu
 - ✅ Aula 07 - Laços de Repetição (`for`)
 - ✅ Aula 08 - Vetores (Arrays)
 
-## 🚀 Tecnologias
+## Tecnologias
 
 - Java
 - VS Code
 - Git
 - GitHub
 
-## 📈 Progresso
+## Progresso
 
 - [x] Variáveis
 - [x] Entrada de Dados
